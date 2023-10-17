@@ -510,6 +510,8 @@
   "feature.wynntils.horseMount.playWhistle.name": "Play Whistle",
   "feature.wynntils.infoBox.description": "Adds the ability to add custom info boxes to the screen as overlays. Info boxes can display custom functions.",
   "feature.wynntils.infoBox.name": "Info Boxes",
+  "feature.wynntils.infoBox.overlay.infoBox.alignment.description": "What text alignment should the info box use?",
+  "feature.wynntils.infoBox.overlay.infoBox.alignment.name": "Info Box Text Alignment",
   "feature.wynntils.infoBox.overlay.infoBox.content.description": "What should be displayed in the info box?",
   "feature.wynntils.infoBox.overlay.infoBox.content.name": "Info Box Content",
   "feature.wynntils.infoBox.overlay.infoBox.name": "Info Box %d",
